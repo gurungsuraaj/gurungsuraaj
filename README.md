@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Engineer with 2+ years of experience in Mobile App Development, proficient in programming languages such as JavaScript, Dart, Java, Swift, and Kotlin. I have developed several mobile applications for Android and iOS platforms using native development tools and cross-platform frameworks such as React Native and Flutter. 
+I'm a Software Engineer with 3+ years of experience in Mobile App Development, proficient in programming languages such as JavaScript, Dart, Java, Swift, and Kotlin. I have developed several mobile applications for Android and iOS platforms using native development tools and cross-platform frameworks such as React Native and Flutter. 
 
 
 ## Projects
